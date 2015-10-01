@@ -11,8 +11,8 @@ var driver = new webdriver.Builder()
 var i = 0;	
 	
 var kall8 = {
-	username: 'customtollfree',
-	password: 'RwX007xx',
+	username: '<>',
+	password: '<>',
 	title: 'Kall8 : customtollfree : D90246',
 	pages: [
 		{
